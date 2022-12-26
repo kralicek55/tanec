@@ -2,7 +2,7 @@ function rovne_a_doleva () {
     cuteBot.forward()
     basic.pause(200)
     cuteBot.turnleft()
-    basic.pause(500)
+    basic.pause(400)
 }
 cuteBot.colorLight(cuteBot.RGBLights.RGB_L, 0x00ffff)
 cuteBot.colorLight(cuteBot.RGBLights.RGB_R, 0xffff00)
